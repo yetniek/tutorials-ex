@@ -1,5 +1,6 @@
 # PyTorch Tutorials
 
+2022. 05. 21 파이토치치치치
 
 All the tutorials are now presented as sphinx style documentation at:
 
